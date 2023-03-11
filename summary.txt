@@ -7,3 +7,8 @@ Jepang
     - Ramen
     - Sushi
     - Tempura
+
+Korea
+    - Kimchi
+    - Bulgogi
+    - Samyang
