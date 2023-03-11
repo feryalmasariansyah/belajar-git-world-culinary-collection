@@ -2,3 +2,8 @@ Indonesia
     - Soto
     - Sate
     - Rendang
+
+Jepang
+    - Ramen
+    - Sushi
+    - Tempura
